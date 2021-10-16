@@ -24,5 +24,10 @@ namespace Ivanov_Ioana_Lab2
         {
             InitializeComponent();
         }
+
+        private void btnRemoveItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
